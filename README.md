@@ -70,7 +70,7 @@ Unit tests have been implemented for critical functions to ensure code reliabili
 
 ## Screenshots
 
-
+![Home Screen](/screenshots/1.jpg)
 *Caption: Description of the home screen.*
 
 
@@ -83,4 +83,4 @@ To run the app locally, follow these instructions:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/jsonyung/komodo_trivia.git
