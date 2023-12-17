@@ -69,16 +69,11 @@ Unit tests have been implemented for critical functions to ensure code reliabili
 
 
 ## Screenshots
-<table>
-  <tr>
-    <td><img src="/screenshots/ani.gif" alt="Animated GIF" width="200"/></td>
-    <td><img src="/screenshots/1.jpg" alt="Home Screen" width="200"/></td>
-    <td><img src="/screenshots/2.jpg" alt="Home Screen" width="200"/></td>
-    <td><img src="/screenshots/3.jpg" alt="Home Screen" width="200"/></td>
-    <td><img src="/screenshots/4.jpg" alt="Home Screen" width="200"/></td>
-    <td><img src="/screenshots/5.jpg" alt="Home Screen" width="200"/></td>
-  </tr>
-</table>
+
+<img src="/screenshots/ani.gif" alt="Animated GIF" width="200"/> <img src="/screenshots/1.jpg" alt="Home Screen" width="200"/>
+<img src="/screenshots/2.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/3.jpg" alt="Home Screen" width="200"/> 
+<img src="/screenshots/4.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/5.jpg" alt="Home Screen" width="200"/>
+
 
 ## Submission
 
