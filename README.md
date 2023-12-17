@@ -69,7 +69,7 @@ Unit tests have been implemented for critical functions to ensure code reliabili
 
 
 ## Screenshots
-![Animated GIF](/screenshots/1.jpg)
+![Animated GIF](/screenshots/ani.gif)
 
 <img src="/screenshots/1.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/2.jpg" alt="Home Screen" width="200"/>
 <img src="/screenshots/3.jpg" alt="Home Screen" width="200"/> <img src="/screenshots/4.jpg" alt="Home Screen" width="200"/>
