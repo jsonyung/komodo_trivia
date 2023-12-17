@@ -22,16 +22,29 @@ The Komodo Trivia app is a Flutter-based mobile application that allows users to
 
 ## User Interface
 
-The app comprises two main screens:
+The app comprises multiple screens, each serving a specific purpose:
 
 1. **Home Screen:**
-    - Displays a list of available quizzes.
-    - Users can select a quiz to start.
+   - Displays a list of available quizzes.
+   - Users can select a quiz to start.
 
 2. **Quiz Screen:**
-    - Presents questions one by one with multiple-choice options.
-    - Allows users to select an answer for each question.
+   - Presents questions one by one with multiple-choice options.
+   - Allows users to select an answer for each question.
 
+3. **Scorecard Screen:**
+   - After completing the quiz, users are directed to the Scorecard screen.
+   - The Scorecard screen displays the user's final score, providing a summary of their performance.
+   - Additional information such as the number of correct and incorrect answers may be included.
+   - Design elements, like a congratulatory message or graphics, can enhance the user experience on the Scorecard screen.
+
+4. **Check Answer Screen:**
+   - Following each answered question, users are directed to the Check Answer screen.
+   - The Check Answer screen displays the correct and incorrect answers for the questions.
+   - For incorrect answers, provide an explanation or the correct information to educate the user.
+   - Include visual indicators or animations to differentiate between correct and incorrect answers.
+   - Users may have the option to review their quiz performance or return to the Home Screen from the Check Answer screen.
+   
 ## API Integration
 
 The app integrates with the Open Trivia Database API:
