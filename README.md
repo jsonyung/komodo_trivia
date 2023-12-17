@@ -69,12 +69,11 @@ Unit tests have been implemented for critical functions to ensure code reliabili
 
 
 ## Screenshots
-
-![Home Screen](/screenshots/1.jpg)
-*Caption: Description of the home screen.*
-
-
-*Caption: Description of the quiz screen.*
+![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/2.png)
+![Screenshot](screenshots/3.png)
+![Screenshot](screenshots/4.png)
+![Screenshot](screenshots/5.png)
 
 ## Submission
 
