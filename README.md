@@ -69,11 +69,12 @@ Unit tests have been implemented for critical functions to ensure code reliabili
 
 
 ## Screenshots
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/2.jpg)
-![Screenshot](screenshots/3.jpg)
-![Screenshot](screenshots/4.jpg)
-![Screenshot](screenshots/5.jpg)
+<img src="/screenshots/1.jpg" alt="Home Screen" width="400"/>
+<img src="/screenshots/2.jpg" alt="Home Screen" width="400"/>
+<img src="/screenshots/3.jpg" alt="Home Screen" width="400"/>
+<img src="/screenshots/4.jpg" alt="Home Screen" width="400"/>
+<img src="/screenshots/5.jpg" alt="Home Screen" width="400"/>
+
 
 ## Submission
 
